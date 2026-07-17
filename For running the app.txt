@@ -1,0 +1,13 @@
+install environment : python -m venv .venv
+
+
+to activate venv: venv\Scripts\activate
+
+
+install requirments : pip install -r requirements.txt
+
+
+run the app: python app.py
+
+
+open in browser after running the app:  http://127.0.0.1:5000
